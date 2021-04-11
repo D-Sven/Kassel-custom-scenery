@@ -1,0 +1,1509 @@
+<ProceduresDB build='By Sven Seipp, based on https://opennav.com/pdf/EDVK/ED_AD_2_EDVK_6_en_2013-04-04.pdf'>
+	<Airport ICAOcode="EDVK">
+		<Sid Name="ELNAT1M" Runways="09">
+			<Sid_Waypoint ID="1">
+				<Name>(1300)</Name>
+				<Type>ConstHdgtoAlt</Type>
+				<Latitude>0.000000</Latitude>
+				<Longitude>0.000000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>1300</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Hdg_Crs>0</Hdg_Crs>
+				<Hdg_Crs_value>94</Hdg_Crs_value>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>VK092</Name>
+				<Type>Normal</Type>
+				<Latitude>51.408833</Latitude>
+				<Longitude>9.608167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Left</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>VK096</Name>
+				<Type>Normal</Type>
+				<Latitude>51.332333</Latitude>
+				<Longitude>9.703500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>ELNAT</Name>
+				<Type>Normal</Type>
+				<Latitude>51.204500</Latitude>
+				<Longitude>9.691167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+		</Sid>
+		<Sid Name="EMBAD1M" Runways="09">
+			<Sid_Waypoint ID="1">
+				<Name>(1300)</Name>
+				<Type>ConstHdgtoAlt</Type>
+				<Latitude>0.000000</Latitude>
+				<Longitude>0.000000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>1300</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Hdg_Crs>0</Hdg_Crs>
+				<Hdg_Crs_value>94</Hdg_Crs_value>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>VK090</Name>
+				<Type>Normal</Type>
+				<Latitude>51.412500</Latitude>
+				<Longitude>9.542667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Left</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>VK093</Name>
+				<Type>Normal</Type>
+				<Latitude>51.473333</Latitude>
+				<Longitude>9.553000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>VK094</Name>
+				<Type>Normal</Type>
+				<Latitude>51.485000</Latitude>
+				<Longitude>9.397000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+                        <Sid_Waypoint ID="5">
+				<Name>EMBAD</Name>
+				<Type>Normal</Type>
+				<Latitude>51.277833</Latitude>
+				<Longitude>9.273833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+		</Sid>
+		<Sid Name="XAROL1M" Runways="09">
+			<Sid_Waypoint ID="1">
+				<Name>(1300)</Name>
+				<Type>ConstHdgtoAlt</Type>
+				<Latitude>0.000000</Latitude>
+				<Longitude>0.000000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>1300</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Hdg_Crs>0</Hdg_Crs>
+				<Hdg_Crs_value>94</Hdg_Crs_value>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>VK090</Name>
+				<Type>Normal</Type>
+				<Latitude>51.412500</Latitude>
+				<Longitude>9.542667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Left</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>VK093</Name>
+				<Type>Normal</Type>
+				<Latitude>51.473333</Latitude>
+				<Longitude>9.553000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>VK094</Name>
+				<Type>Normal</Type>
+				<Latitude>51.485000</Latitude>
+				<Longitude>9.397000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="5">
+				<Name>XAROL</Name>
+				<Type>Normal</Type>
+				<Latitude>51.314500</Latitude>
+				<Longitude>9.046000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+		</Sid>
+		<Sid Name="WRB1M" Runways="09">
+			<Sid_Waypoint ID="1">
+				<Name>(1300)</Name>
+				<Type>ConstHdgtoAlt</Type>
+				<Latitude>0.000000</Latitude>
+				<Longitude>0.000000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>1300</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Hdg_Crs>0</Hdg_Crs>
+				<Hdg_Crs_value>94</Hdg_Crs_value>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>VK090</Name>
+				<Type>Normal</Type>
+				<Latitude>51.412500</Latitude>
+				<Longitude>9.542667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Right</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>VK093</Name>
+				<Type>Normal</Type>
+				<Latitude>51.473333</Latitude>
+				<Longitude>9.553000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>WRB</Name>
+				<Type>Normal</Type>
+				<Latitude>51.505667</Latitude>
+				<Longitude>9.111000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+		</Sid>
+		<Sid Name="LUXUX1M" Runways="09">
+			<Sid_Waypoint ID="1">
+				<Name>(1300)</Name>
+				<Type>ConstHdgtoAlt</Type>
+				<Latitude>0.000000</Latitude>
+				<Longitude>0.000000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>1300</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Hdg_Crs>0</Hdg_Crs>
+				<Hdg_Crs_value>94</Hdg_Crs_value>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>VK091</Name>
+				<Type>Normal</Type>
+				<Latitude>51.411333</Latitude>
+				<Longitude>9.565333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Right</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>VK095</Name>
+				<Type>Normal</Type>
+				<Latitude>51.446500</Latitude>
+				<Longitude>9.625833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>LUXUX</Name>
+				<Type>Normal</Type>
+				<Latitude>51.631667</Latitude>
+				<Longitude>9.764667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+		</Sid>
+		<Sid Name="WERRA1M" Runways="09">
+			<Sid_Waypoint ID="1">
+				<Name>(1300)</Name>
+				<Type>ConstHdgtoAlt</Type>
+				<Latitude>0.000000</Latitude>
+				<Longitude>0.000000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>1300</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Hdg_Crs>0</Hdg_Crs>
+				<Hdg_Crs_value>94</Hdg_Crs_value>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+                        <Sid_Waypoint ID="2">
+				<Name>VK091</Name>
+				<Type>Normal</Type>
+				<Latitude>51.411333</Latitude>
+				<Longitude>9.565333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Right</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>VK095</Name>
+				<Type>Normal</Type>
+				<Latitude>51.446500</Latitude>
+				<Longitude>9.625833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>WERRA</Name>
+				<Type>Normal</Type>
+				<Latitude>51.470000</Latitude>
+				<Longitude>9.734167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+		</Sid>
+		<Sid Name="ELNAT4N" Runways="27">
+			<Sid_Waypoint ID="1">
+				<Name>(1300)</Name>
+				<Type>ConstHdgtoAlt</Type>
+				<Latitude>0.000000</Latitude>
+				<Longitude>0.000000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>1300</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Hdg_Crs>0</Hdg_Crs>
+				<Hdg_Crs_value>274</Hdg_Crs_value>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>VK270</Name>
+				<Type>Normal</Type>
+				<Latitude>51.424667</Latitude>
+				<Longitude>9.321167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Right</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>VK277</Name>
+				<Type>Normal</Type>
+				<Latitude>51.401167</Latitude>
+				<Longitude>9.263333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>XIBIG</Name>
+				<Type>Normal</Type>
+				<Latitude>51.352333</Latitude>
+				<Longitude>9.267500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="5">
+				<Name>ELNAT</Name>
+				<Type>Normal</Type>
+				<Latitude>51.204500</Latitude>
+				<Longitude>9.691167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+		</Sid>
+		<Sid Name="EMBAD2N" Runways="27">
+			<Sid_Waypoint ID="1">
+				<Name>(1300)</Name>
+				<Type>ConstHdgtoAlt</Type>
+				<Latitude>0.000000</Latitude>
+				<Longitude>0.000000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>1300</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Hdg_Crs>0</Hdg_Crs>
+				<Hdg_Crs_value>274</Hdg_Crs_value>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>VK270</Name>
+				<Type>Normal</Type>
+				<Latitude>51.424667</Latitude>
+				<Longitude>9.321167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Right</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>VK277</Name>
+				<Type>Normal</Type>
+				<Latitude>51.401167</Latitude>
+				<Longitude>9.263333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>EMBAD</Name>
+				<Type>Normal</Type>
+				<Latitude>51.277833</Latitude>
+				<Longitude>9.273833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+		</Sid>
+		<Sid Name="XAROL1N" Runways="27">
+			<Sid_Waypoint ID="1">
+				<Name>(1300)</Name>
+				<Type>ConstHdgtoAlt</Type>
+				<Latitude>0.000000</Latitude>
+				<Longitude>0.000000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>1300</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Hdg_Crs>0</Hdg_Crs>
+				<Hdg_Crs_value>274</Hdg_Crs_value>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>VK270</Name>
+				<Type>Normal</Type>
+				<Latitude>51.424667</Latitude>
+				<Longitude>9.321167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Right</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>XAROL</Name>
+				<Type>Normal</Type>
+				<Latitude>51.314500</Latitude>
+				<Longitude>9.046000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+		</Sid>
+		<Sid Name="WRB7N" Runways="27">
+			<Sid_Waypoint ID="1">
+				<Name>(1300)</Name>
+				<Type>ConstHdgtoAlt</Type>
+				<Latitude>0.000000</Latitude>
+				<Longitude>0.000000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>1300</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Hdg_Crs>0</Hdg_Crs>
+				<Hdg_Crs_value>274</Hdg_Crs_value>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>VK271</Name>
+				<Type>Normal</Type>
+				<Latitude>51.425500</Latitude>
+				<Longitude>9.305167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Left</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>VK274</Name>
+				<Type>Normal</Type>
+				<Latitude>51.486500</Latitude>
+				<Longitude>9.228667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>WRB</Name>
+				<Type>Normal</Type>
+				<Latitude>51.505667</Latitude>
+				<Longitude>9.111000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+		</Sid>
+		<Sid Name="LUXUX1N" Runways="27">
+			<Sid_Waypoint ID="1">
+				<Name>(1300)</Name>
+				<Type>ConstHdgtoAlt</Type>
+				<Latitude>0.000000</Latitude>
+				<Longitude>0.000000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>1300</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Hdg_Crs>0</Hdg_Crs>
+				<Hdg_Crs_value>274</Hdg_Crs_value>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>VK273</Name>
+				<Type>Normal</Type>
+				<Latitude>51.428167</Latitude>
+				<Longitude>9.254833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>VK275</Name>
+				<Type>Normal</Type>
+				<Latitude>51.483500</Latitude>
+				<Longitude>9.239333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+                        <Sid_Waypoint ID="4">
+				<Name>LUXUX</Name>
+				<Type>Normal</Type>
+				<Latitude>51.631667</Latitude>
+				<Longitude>9.764667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+		</Sid>
+		<Sid Name="WERRA6N" Runways="27">
+			<Sid_Waypoint ID="1">
+				<Name>(1300)</Name>
+				<Type>ConstHdgtoAlt</Type>
+				<Latitude>0.000000</Latitude>
+				<Longitude>0.000000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>1300</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Hdg_Crs>0</Hdg_Crs>
+				<Hdg_Crs_value>274</Hdg_Crs_value>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>VK270</Name>
+				<Type>Normal</Type>
+				<Latitude>51.424667</Latitude>
+				<Longitude>9.321167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Left</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>VK276</Name>
+				<Type>Normal</Type>
+				<Latitude>51.470833</Latitude>
+				<Longitude>9.324167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>WERRA</Name>
+				<Type>Normal</Type>
+				<Latitude>51.470000</Latitude>
+				<Longitude>9.734167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</Sid_Waypoint>
+		</Sid>
+		<Approach Name="ILS09">
+			<App_Waypoint ID="1">
+				<Name>FAF</Name>
+				<Type>Normal</Type>
+				<Latitude>51.433167</Latitude>
+				<Longitude>9.158000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>3500</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="2">
+				<Name>DKS/5.2</Name>
+				<Type>Normal</Type>
+				<Latitude>51.4276</Latitude>
+				<Longitude>9.2637</Longitude>
+				<Speed>0</Speed>
+				<Altitude>2180</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="3">
+				<Name>MAPT</Name>
+				<Type>Normal</Type>
+				<Latitude>51.4228</Latitude>
+				<Longitude>9.3537</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="4">
+				<Name>RW09</Name>
+				<Type>Runway</Type>
+				<Latitude>51.42171710</Latitude>
+				<Longitude>9.37502098</Longitude>
+				<Speed>0</Speed>
+				<Altitude>861</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="5">
+				<Name>DKS/3.2</Name>
+				<Type>Normal</Type>
+				<Latitude>51.4161</Latitude>
+				<Longitude>9.4914</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Left</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="6">
+				<Name>R098WRB</Name>
+				<Type>Normal</Type>
+				<Latitude>51.4599</Latitude>
+				<Longitude>9.4977</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Left</Sp_Turn>
+			</App_Waypoint>
+                        <App_Waypoint ID="7">
+				<Name>WRB</Name>
+				<Type>Normal</Type>
+				<Latitude>51.505667</Latitude>
+				<Longitude>9.111000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Left</Sp_Turn>
+			</App_Waypoint>
+                        <App_Transition Name="XAROL">
+				<AppTr_Waypoint ID="1">
+					<Name>XAROL</Name>
+					<Type>Normal</Type>
+					<Latitude>51.314500</Latitude>
+					<Longitude>9.046000</Longitude>
+					<Speed>0</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="2">
+					<Name>WRB/5.6</Name>
+					<Type>Normal</Type>
+					<Latitude>51.4146</Latitude>
+					<Longitude>9.0778</Longitude>
+					<Speed>0</Speed>
+					<Altitude>3500</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-over</Flytype>
+				</AppTr_Waypoint>
+			</App_Transition>
+                        <App_Transition Name="ELNAT">
+				<AppTr_Waypoint ID="1">
+					<Name>ELNAT</Name>
+					<Type>Normal</Type>
+					<Latitude>51.204500</Latitude>
+					<Longitude>9.691167</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="2">
+					<Name>XAROL</Name>
+					<Type>Normal</Type>
+					<Latitude>51.314500</Latitude>
+					<Longitude>9.046000</Longitude>
+					<Speed>0</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="3">
+					<Name>WRB/5.6</Name>
+					<Type>Normal</Type>
+					<Latitude>51.4146</Latitude>
+					<Longitude>9.0778</Longitude>
+					<Speed>0</Speed>
+					<Altitude>3500</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-over</Flytype>
+				</AppTr_Waypoint>
+			</App_Transition>
+                        <App_Transition Name="LUXUX">
+				<AppTr_Waypoint ID="1">
+					<Name>LUXUX</Name>
+					<Type>Normal</Type>
+					<Latitude>51.631667</Latitude>
+					<Longitude>9.764667</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="2">
+					<Name>WRB</Name>
+					<Type>Normal</Type>
+					<Latitude>51.505667</Latitude>
+                                        <Longitude>9.111000</Longitude>
+					<Speed>0</Speed>
+					<Altitude>3500</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="3">
+					<Name>WRB/2.0</Name>
+					<Type>Normal</Type>
+					<Latitude>51.4892</Latitude>
+					<Longitude>9.0617</Longitude>
+					<Speed>0</Speed>
+					<Altitude>3500</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-over</Flytype>
+				</AppTr_Waypoint>
+			</App_Transition>
+		</Approach>
+		<Approach Name="ILS27">
+			<App_Waypoint ID="1">
+				<Name>LALTU</Name>
+				<Type>Normal</Type>
+				<Latitude>51.412333</Latitude>
+				<Longitude>9.547333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>2500</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="2">
+				<Name>DKS/3.0</Name>
+				<Type>Normal</Type>
+				<Latitude>51.4159</Latitude>
+				<Longitude>9.4806</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="3">
+				<Name>MAPT</Name>
+				<Type>Normal</Type>
+				<Latitude>51.4193</Latitude>
+				<Longitude>9.4213</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Left</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="4">
+				<Name>RW27</Name>
+				<Type>Runway</Type>
+				<Latitude>51.41985355</Latitude>
+				<Longitude>9.40946771</Longitude>
+				<Speed>0</Speed>
+				<Altitude>803</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="5">
+				<Name>DKS/5.6</Name>
+				<Type>Normal</Type>
+				<Latitude>51.4282</Latitude>
+				<Longitude>9.2533</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="6">
+				<Name>WRB</Name>
+				<Type>Normal</Type>
+				<Latitude>51.505667</Latitude>
+				<Longitude>9.111000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Left</Sp_Turn>
+			</App_Waypoint>
+                        <App_Transition Name="XAROL">
+				<AppTr_Waypoint ID="1">
+					<Name>XAROL</Name>
+					<Type>Normal</Type>
+					<Latitude>51.314500</Latitude>
+					<Longitude>9.046000</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="2">
+					<Name>VK100</Name>
+					<Type>Normal</Type>
+					<Latitude>51.294000</Latitude>
+					<Longitude>9.535667</Longitude>
+					<Speed>0</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="3">
+					<Name>VK103</Name>
+					<Type>Normal</Type>
+					<Latitude>51.362667</Latitude>
+					<Longitude>9.630833</Longitude>
+					<Speed>0</Speed>
+					<Altitude>3000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="4">
+					<Name>VK104</Name>
+					<Type>Normal</Type>
+					<Latitude>51.403833</Latitude>
+					<Longitude>9.615167</Longitude>
+					<Speed>0</Speed>
+					<Altitude>2500</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+			</App_Transition>
+                        <App_Transition Name="ELNAT">
+				<AppTr_Waypoint ID="1">
+					<Name>ELNAT</Name>
+					<Type>Normal</Type>
+					<Latitude>51.204500</Latitude>
+					<Longitude>9.691167</Longitude>
+					<Speed>0</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="2">
+					<Name>VK101</Name>
+					<Type>Normal</Type>
+					<Latitude>51.289000</Latitude>
+					<Longitude>9.658833</Longitude>
+					<Speed>0</Speed>
+					<Altitude>4000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="3">
+					<Name>VK103</Name>
+					<Type>Normal</Type>
+					<Latitude>51.362667</Latitude>
+					<Longitude>9.630833</Longitude>
+					<Speed>0</Speed>
+					<Altitude>3000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="4">
+					<Name>VK104</Name>
+					<Type>Normal</Type>
+					<Latitude>51.403833</Latitude>
+					<Longitude>9.615167</Longitude>
+					<Speed>0</Speed>
+					<Altitude>2500</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+			</App_Transition>
+                        <App_Transition Name="LUXUX">
+				<AppTr_Waypoint ID="1">
+					<Name>LUXUX</Name>
+					<Type>Normal</Type>
+					<Latitude>51.631667</Latitude>
+					<Longitude>9.764667</Longitude>
+					<Speed>0</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="2">
+					<Name>VK102</Name>
+					<Type>Normal</Type>
+					<Latitude>51.520500</Latitude>
+					<Longitude>9.691833</Longitude>
+					<Speed>0</Speed>
+					<Altitude>4000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="3">
+					<Name>VK105</Name>
+					<Type>Normal</Type>
+					<Latitude>51.446833 </Latitude>
+					<Longitude>9.643833</Longitude>
+					<Speed>0</Speed>
+					<Altitude>3000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="4">
+					<Name>VK106</Name>
+					<Type>Normal</Type>
+					<Latitude>51.408333</Latitude>
+					<Longitude>9.618833</Longitude>
+					<Speed>0</Speed>
+					<Altitude>2500</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+			</App_Transition>
+                        <App_Transition Name="WRB">
+				<AppTr_Waypoint ID="1">
+					<Name>WRB</Name>
+					<Type>Normal</Type>
+					<Latitude>51.505667</Latitude>
+                                        <Longitude>9.111000</Longitude>
+					<Speed>0</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="2">
+					<Name>WRB/18.3</Name>
+					<Type>Normal</Type>
+					<Latitude>51.4646</Latitude>
+					<Longitude>9.5940</Longitude>
+					<Speed>0</Speed>
+					<Altitude>3000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-over</Flytype>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="3">
+					<Name>VK105</Name>
+					<Type>Normal</Type>
+					<Latitude>51.446833 </Latitude>
+					<Longitude>9.643833</Longitude>
+					<Speed>0</Speed>
+					<Altitude>3000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="4">
+					<Name>VK106</Name>
+					<Type>Normal</Type>
+					<Latitude>51.408333</Latitude>
+					<Longitude>9.618833</Longitude>
+					<Speed>0</Speed>
+					<Altitude>2500</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+			</App_Transition>
+		</Approach>
+		<Approach Name="RNAV27">
+			<App_Waypoint ID="1">
+				<Name>VK150</Name>
+				<Type>Normal</Type>
+				<Latitude>51.406667</Latitude>
+				<Longitude>9.648833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>3000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="2">
+				<Name>LALTU</Name>
+				<Type>Normal</Type>
+				<Latitude>51.412333</Latitude>
+				<Longitude>9.547333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>2500</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+                        <App_Waypoint ID="3">
+				<Name>RWY27/2.5</Name>
+				<Type>Normal</Type>
+				<Latitude>51.4163</Latitude>
+				<Longitude>9.4776</Longitude>
+				<Speed>0</Speed>
+				<Altitude>1650</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="4">
+				<Name>RW27</Name>
+				<Type>Runway</Type>
+				<Latitude>51.41985355</Latitude>
+				<Longitude>9.40946771</Longitude>
+				<Speed>0</Speed>
+				<Altitude>803</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="5">
+				<Name>VK160</Name>
+				<Type>Normal</Type>
+				<Latitude>51.428667</Latitude>
+				<Longitude>9.244167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Hdg_Crs>0</Hdg_Crs>
+				<Hdg_Crs_value>240</Hdg_Crs_value>
+				<DMEtoIntercept>05.8</DMEtoIntercept>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="6">
+				<Name>WRB</Name>
+				<Type>Normal</Type>
+				<Latitude>51.505667</Latitude>
+                                <Longitude>9.111000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Left</Sp_Turn>
+			</App_Waypoint>
+                        <App_Transition Name="XAROL">
+				<AppTr_Waypoint ID="1">
+					<Name>XAROL</Name>
+					<Type>Normal</Type>
+					<Latitude>51.314500</Latitude>
+					<Longitude>9.046000</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="2">
+					<Name>VK100</Name>
+					<Type>Normal</Type>
+					<Latitude>51.294000</Latitude>
+					<Longitude>9.535667</Longitude>
+					<Speed>0</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="3">
+					<Name>VK141</Name>
+					<Type>Normal</Type>
+					<Latitude>51.317667</Latitude>
+					<Longitude>9.667500</Longitude>
+					<Speed>0</Speed>
+					<Altitude>3000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+			</App_Transition>
+                        <App_Transition Name="ELNAT">
+				<AppTr_Waypoint ID="1">
+					<Name>ELNAT</Name>
+					<Type>Normal</Type>
+					<Latitude>51.204500</Latitude>
+					<Longitude>9.691167</Longitude>
+					<Speed>0</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="2">
+					<Name>VK141</Name>
+					<Type>Normal</Type>
+					<Latitude>51.317667</Latitude>
+					<Longitude>9.667500</Longitude>
+					<Speed>0</Speed>
+					<Altitude>4000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+			</App_Transition>
+                        <App_Transition Name="LUXUX">
+				<AppTr_Waypoint ID="1">
+					<Name>LUXUX</Name>
+					<Type>Normal</Type>
+					<Latitude>51.631667</Latitude>
+					<Longitude>9.764667</Longitude>
+					<Speed>0</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="2">
+					<Name>VK142</Name>
+					<Type>Normal</Type>
+					<Latitude>51.521167</Latitude>
+					<Longitude>9.690500</Longitude>
+					<Speed>0</Speed>
+					<Altitude>4000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="3">
+					<Name>VK143</Name>
+					<Type>Normal</Type>
+					<Latitude>51.473000</Latitude>
+					<Longitude>9.658500</Longitude>
+					<Speed>0</Speed>
+					<Altitude>3000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+			</App_Transition>
+                        <App_Transition Name="WRB">
+				<AppTr_Waypoint ID="1">
+					<Name>WRB</Name>
+					<Type>Normal</Type>
+					<Latitude>51.505667</Latitude>
+                                        <Longitude>9.111000</Longitude>
+					<Speed>0</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="2">
+					<Name>VK143</Name>
+					<Type>Normal</Type>
+					<Latitude>51.473000</Latitude>
+					<Longitude>9.658500</Longitude>
+					<Speed>0</Speed>
+					<Altitude>3000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+			</App_Transition>
+		</Approach>
+		<Approach Name="RNAV09">
+			<App_Waypoint ID="1">
+				<Name>VK120</Name>
+				<Type>Normal</Type>
+				<Latitude>51.438667</Latitude>
+				<Longitude>9.051833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>3500</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="2">
+				<Name>ABLIB</Name>
+				<Type>Normal</Type>
+				<Latitude>51.433167</Latitude>
+				<Longitude>9.158000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>3500</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="3">
+				<Name>RWY09/3.0</Name>
+				<Type>Normal</Type>
+				<Latitude>51.4262</Latitude>
+				<Longitude>9.2951</Longitude>
+				<Speed>0</Speed>
+				<Altitude>1870</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="4">
+				<Name>RW09</Name>
+				<Type>Runway</Type>
+				<Latitude>51.42171710</Latitude>
+				<Longitude>9.37502098</Longitude>
+				<Speed>0</Speed>
+				<Altitude>861</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="5">
+				<Name>VK130</Name>
+				<Type>Normal</Type>
+				<Latitude>51.416333</Latitude>
+				<Longitude>9.473833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="6">
+				<Name>VK131</Name>
+				<Type>Normal</Type>
+				<Latitude>51.460333</Latitude>
+				<Longitude>9.530000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+			<App_Waypoint ID="7">
+				<Name>WRB</Name>
+				<Type>Normal</Type>
+				<Latitude>51.505667</Latitude>
+                                <Longitude>9.111000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>3000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+				<Sp_Turn>Auto</Sp_Turn>
+			</App_Waypoint>
+                        <App_Transition Name="XAROL">
+				<AppTr_Waypoint ID="1">
+					<Name>XAROL</Name>
+					<Type>Normal</Type>
+					<Latitude>51.314500</Latitude>
+					<Longitude>9.046000</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="2">
+					<Name>VK110</Name>
+					<Type>Normal</Type>
+					<Latitude>51.335000</Latitude>
+					<Longitude>8.924333</Longitude>
+					<Speed>0</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="3">
+					<Name>VK111</Name>
+					<Type>Normal</Type>
+					<Latitude>51.444333</Latitude>
+					<Longitude>8.938333</Longitude>
+					<Speed>0</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+			</App_Transition>
+                        <App_Transition Name="ELNAT">
+				<AppTr_Waypoint ID="1">
+					<Name>ELNAT</Name>
+					<Type>Normal</Type>
+					<Latitude>51.204500</Latitude>
+					<Longitude>9.691167</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="2">
+					<Name>XAROL</Name>
+					<Type>Normal</Type>
+					<Latitude>51.314500</Latitude>
+					<Longitude>9.046000</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="3">
+					<Name>VK110</Name>
+					<Type>Normal</Type>
+					<Latitude>51.335000</Latitude>
+					<Longitude>8.924333</Longitude>
+					<Speed>0</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="4">
+					<Name>VK111</Name>
+					<Type>Normal</Type>
+					<Latitude>51.444333</Latitude>
+					<Longitude>8.938333</Longitude>
+					<Speed>0</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+			</App_Transition>
+                        <App_Transition Name="LUXUX">
+				<AppTr_Waypoint ID="1">
+					<Name>LUXUX</Name>
+					<Type>Normal</Type>
+					<Latitude>51.631667</Latitude>
+					<Longitude>9.764667</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="2">
+					<Name>VK112</Name>
+					<Type>Normal</Type>
+					<Latitude>51.542667</Latitude>
+					<Longitude>9.300667</Longitude>
+					<Speed>0</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="3">
+					<Name>WRB</Name>
+					<Type>Normal</Type>
+					<Latitude>51.505667</Latitude>
+                                        <Longitude>9.111000</Longitude>
+					<Speed>0</Speed>
+					<Altitude>3500</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="4">
+					<Name>VK113</Name>
+					<Type>Normal</Type>
+					<Latitude>51.495667</Latitude>
+					<Longitude>9.059333</Longitude>
+					<Speed>0</Speed>
+					<Altitude>3500</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+			</App_Transition>
+                        <App_Transition Name="WRB">
+				<AppTr_Waypoint ID="1">
+					<Name>WRB</Name>
+					<Type>Normal</Type>
+					<Latitude>51.505667</Latitude>
+                                        <Longitude>9.111000</Longitude>
+					<Speed>0</Speed>
+					<Altitude>3500</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="2">
+					<Name>VK113</Name>
+					<Type>Normal</Type>
+					<Latitude>51.495667</Latitude>
+					<Longitude>9.059333</Longitude>
+					<Speed>0</Speed>
+					<Altitude>3500</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+			</App_Transition>
+		</Approach>
+	</Airport>
+</ProceduresDB>

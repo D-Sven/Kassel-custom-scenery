@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<groundnet>
+    <parkingList>
+        <Parking index="0" type="gate" name="Stand_01" lat="N51 25.019926" lon="E9 23.257856" heading="274.000000" />
+        <Parking index="1" type="gate" name="Stand_02" lat="N51 25.055525" lon="E9 23.262816" heading="274.000000" />
+        <Parking index="2" type="gate" name="Stand_03" lat="N51 25.093969" lon="E9 23.261642" heading="274.000000" />
+        <Parking index="3" type="gate" name="Piper_01" lat="N51 25.039792" lon="E9 23.698661" heading="274.000000" />
+        <Parking index="4" type="gate" name="Piper_02" lat="N51 25.053268" lon="E9 23.699619" heading="274.000000" />
+        <Parking index="5" type="gate" name="Piper_03" lat="N51 25.037536" lon="E9 23.737858" heading="274.000000" />
+        <Parking index="6" type="gate" name="Piper_04" lat="N51 25.050979" lon="E9 23.739811" heading="274.000000" />
+        <Parking index="7" type="gate" name="Piper_05" lat="N51 25.035916" lon="E9 23.768040" heading="274.000000" />
+        <Parking index="8" type="gate" name="Piper_06" lat="N51 25.049310" lon="E9 23.769979" heading="274.000000" />
+        <Parking index="9" type="gate" name="GA_01" lat="N51 25.031591" lon="E9 23.802320" heading="274.000000" />
+        <Parking index="10" type="gate" name="GA_02" lat="N51 25.043716" lon="E9 23.803712" heading="274.000000" />
+        <Parking index="11" type="gate" name="GA_03" lat="N51 25.041799" lon="E9 23.829692" heading="274.000000" />
+        <Parking index="12" type="gate" name="GA_04" lat="N51 25.027129" lon="E9 23.932624" heading="274.000000" />
+        <Parking index="13" type="gate" name="GA_10" lat="N51 25.056929" lon="E9 23.984757" heading="220.000000" />
+        <Parking index="14" type="gate" name="GA_11" lat="N51 25.057700" lon="E9 23.967668" heading="220.000000" />
+        <Parking index="15" type="gate" name="GA_12" lat="N51 25.058966" lon="E9 23.947065" heading="220.000000" />
+        <Parking index="16" type="gate" name="GA_13" lat="N51 25.059908" lon="E9 23.929153" heading="220.000000" />
+        <Parking index="17" type="gate" name="GA_14" lat="N51 25.061141" lon="E9 23.908004" heading="220.000000" />
+        <Parking index="18" type="gate" name="GA_15" lat="N51 25.075213" lon="E9 23.987034" heading="320.000000" />
+        <Parking index="19" type="gate" name="GA_16" lat="N51 25.075877" lon="E9 23.969489" heading="320.000000" />
+        <Parking index="20" type="gate" name="GA_17" lat="N51 25.076532" lon="E9 23.947115" heading="320.000000" />
+        <Parking index="21" type="gate" name="GA_18" lat="N51 25.077125" lon="E9 23.930585" heading="320.000000" />
+        <Parking index="22" type="gate" name="GA_19" lat="N51 25.078194" lon="E9 23.908000" heading="320.000000" />
+        <Parking index="23" type="gate" name="Fuel_01" lat="N51 25.097661" lon="E9 23.823237" heading="274.000000" />
+        <Parking index="24" type="gate" name="Fuel_02" lat="N51 25.088124" lon="E9 23.822585" heading="274.000000" />
+        <Parking index="25" type="gate" name="Fuel_03" lat="N51 25.096149" lon="E9 23.840066" heading="274.000000" />
+        <!--
+
+        Gate 01:    9.38763093 51.41699877 hdg 274
+        Gate 02:    9.38771360 51.41759208 hdg 274
+        Gate 03:    9.38769403 51.41823281 hdg 274
+
+
+        Piper_01:   9.39497769 51.41732987 hdg 274
+        Piper_02:   9.39499365 51.41755446 hdg 274
+        Piper_03:   9.39563097 51.41729227 hdg 274
+        Piper_04:   9.39566351 51.41751631 hdg 274
+        Piper_05:   9.39613400 51.41726526 hdg 274
+        Piper_06:   9.39616632 51.41748850 hdg 274
+
+        GA_01:      9.39670533 51.41719318 hdg 274
+        GA_02:      9.39672853 51.41739527 hdg 274
+        GA_03:      9.39716154 51.41736332 hdg 274
+        GA_04:      9.39887706 51.41711881 hdg 274
+
+        GA_10:      9.39974595 51.41761549 hdg 220
+        GA_11:      9.39946113 51.41762834 hdg 220
+        GA_12:      9.39911775 51.41764944 hdg 220
+        GA_13:      9.39881921 51.41766514 hdg 220
+        GA_14:      9.39846673 51.41768569 hdg 220
+        GA_15:      9.39978390 51.41792022 hdg 320
+        GA_16:      9.39949149 51.41793129 hdg 320
+        GA_17:      9.39911859 51.41794220 hdg 320
+        GA_18:      9.39884309 51.41795209 hdg 320
+        GA_19:      9.39846666 51.41796990 hdg 320
+
+        Fuel_01:    9.39705395 51.41829435 hdg 274
+        Fuel_02:    9.39704309 51.41813540 hdg 274
+        Fuel_03:    9.39733443 51.41826915 hdg 274
+        -->
+    </parkingList>
+</groundnet>
