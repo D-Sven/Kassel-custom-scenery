@@ -44,3 +44,4 @@ OBJECT_SHARED Models/Airport/windsock.xml 9.377909 51.405785 271.5 0.00
 OBJECT_SHARED Models/Airport/windsock_lit.xml 9.368475 51.402653 271.4 0.00
 OBJECT_SHARED Models/Airport/windsock_lit.xml 9.370220 51.406045 274.7 0.00
 OBJECT_SHARED Models/Airport/windsock_lit.xml 9.377662 51.409873 271.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 9.375566 51.407738 274.0 0.00
