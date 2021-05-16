@@ -27,6 +27,13 @@
         <Parking index="23" type="gate" name="Fuel_01" lat="N51 25.097661" lon="E9 23.823237" heading="274.000000" />
         <Parking index="24" type="gate" name="Fuel_02" lat="N51 25.088124" lon="E9 23.822585" heading="274.000000" />
         <Parking index="25" type="gate" name="Fuel_03" lat="N51 25.096149" lon="E9 23.840066" heading="274.000000" />
+        <Parking index="26" type="gate" name="GA_20" lat="N51 25.09102" lon="E9 23.918" heading="005.000000" />
+        <Parking index="27" type="gate" name="GA_21" lat="N51 25.109" lon="E9 23.925" heading="185.000000" />
+        <Parking index="28" type="gate" name="GA_22" lat="N51 25.109" lon="E9 23.941" heading="185.000000" />
+        <Parking index="29" type="gate" name="GA_23" lat="N51 25.108" lon="E9 23.956" heading="185.000000" />
+        <Parking index="30" type="gate" name="GA_24" lat="N51 25.107" lon="E9 23.974" heading="185.000000" />
+        <Parking index="31" type="gate" name="GA_25" lat="N51 25.107" lon="E9 23.989" heading="185.000000" />
+        <Parking index="32" type="gate" name="GA_26" lat="N51 25.105" lon="E9 24.007" heading="185.000000" />
         <!--
 
         Gate 01:    9.38763093 51.41699877 hdg 274
@@ -60,6 +67,15 @@
         Fuel_01:    9.39705395 51.41829435 hdg 274
         Fuel_02:    9.39704309 51.41813540 hdg 274
         Fuel_03:    9.39733443 51.41826915 hdg 274
+        
+        GA_20:      9.39863337 51.41818357 hdg 005
+        GA_21:      9.39875788 51.41848877 hdg 185
+        GA_22:      9.39901565 51.41848139 hdg 185
+        GA_23:      9.39927068 51.41847027 hdg 185
+        GA_24:      9.39956890 51.41845646 hdg 185
+        GA_25:      9.39982390 51.41844294 hdg 185
+        GA_26:      9.40011666 51.41842175 hdg 185
+
         -->
     </parkingList>
 </groundnet>
