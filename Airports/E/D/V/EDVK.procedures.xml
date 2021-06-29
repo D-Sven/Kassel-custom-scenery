@@ -1,4 +1,4 @@
-<ProceduresDB build='By Sven Seipp, based on https://opennav.com/pdf/EDVK/ED_AD_2_EDVK_6_en_2013-04-04.pdf'>
+<ProceduresDB build='By Sven Seipp, based on https://aip.dfs.de/basicIFR/index.html'>
 	<Airport ICAOcode="EDVK">
 		<Sid Name="ELNAT1M" Runways="09">
 			<Sid_Waypoint ID="1">
