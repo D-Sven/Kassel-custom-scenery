@@ -1,18 +1,18 @@
 # pylons_e000n50_e009n51_3105608
 # do not edit below this line
-# Last Written Sat Jun 12 11:51:36 2021
+# Last Written Thu Jul  1 13:37:53 2021
 #
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.25182 51.22861 270.62 289.765
 # END pylons_e000n50_e009n51_3105608
 # pylons_e000n50_e009n51_3105601
 # do not edit below this line
-# Last Written Sat Jun 12 12:03:43 2021
+# Last Written Thu Jul  1 13:49:07 2021
 #
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.35918 51.12598 187.85 397.846
 # END pylons_e000n50_e009n51_3105601
 # pylons_e000n50_e009n51_3105609
 # do not edit below this line
-# Last Written Sat Jun 12 12:08:18 2021
+# Last Written Thu Jul  1 13:52:27 2021
 #
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.25182 51.22861 270.62 289.661
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac 9.46182 51.24912 210.24 247.73
@@ -36,25 +36,25 @@ OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.ac 9.45180 51.21116 149.08 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac 9.36834 51.23692 278.42 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.ac 9.46248 51.23928 152.67 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.ac 9.38855 51.21369 205.43 0
-OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac 9.27914 51.13624 -249.98 450
-OBJECT_SHARED Models/Industrial/TPS_Drujba2_chimney.ac 9.28009 51.13890 131.82 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac 9.25775 51.22941 -210.82 450
+OBJECT_SHARED Models/Industrial/TPS_Drujba2_chimney.ac 9.29053 51.19569 109.89 450
 # END pylons_e000n50_e009n51_3105609
 # pylons_e000n50_e009n51_3105610
 # do not edit below this line
-# Last Written Sat Jun 12 12:17:11 2021
+# Last Written Thu Jul  1 14:00:33 2021
 #
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.49954 51.23699 237.39 114.121
 # END pylons_e000n50_e009n51_3105610
 # pylons_e000n50_e009n51_3105617
 # do not edit below this line
-# Last Written Sat Jun 12 12:20:58 2021
+# Last Written Thu Jul  1 14:04:24 2021
 #
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.43942 51.24997 228.70 208.951
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac 9.45050 51.24978 237.39 336.484
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.43942 51.24997 228.70 208.951
 # END pylons_e000n50_e009n51_3105617
 # pylons_e000n50_e009n51_3105618
 # do not edit below this line
-# Last Written Sat Jun 12 12:27:27 2021
+# Last Written Thu Jul  1 14:11:27 2021
 #
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.49906 51.24975 150.96 239.938
 # END pylons_e000n50_e009n51_3105618

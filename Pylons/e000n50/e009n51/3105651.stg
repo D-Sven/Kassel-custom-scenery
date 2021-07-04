@@ -1,18 +1,18 @@
 # pylons_e000n50_e009n51_3105650
 # do not edit below this line
-# Last Written Sat Jun 12 12:22:57 2021
+# Last Written Thu Jul  1 14:06:28 2021
 #
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.75028 51.84403 183.25 298.727
 # END pylons_e000n50_e009n51_3105650
 # pylons_e000n50_e009n51_3105643
 # do not edit below this line
-# Last Written Sat Jun 12 12:31:30 2021
+# Last Written Thu Jul  1 14:15:30 2021
 #
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.89083 51.75032 151.05 122.666
 # END pylons_e000n50_e009n51_3105643
 # pylons_e000n50_e009n51_3105651
 # do not edit below this line
-# Last Written Sat Jun 12 12:32:13 2021
+# Last Written Thu Jul  1 14:16:33 2021
 #
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.98756 51.85706 151.89 216.464
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac 9.93293 51.86527 111.98 133.82
@@ -30,14 +30,14 @@ OBJECT_BUILDING_MESH_DETAILED e000n50_e009n51_3105651c32.ac 9.95300 51.83988 0.0
 OBJECT_BUILDING_MESH_DETAILED e000n50_e009n51_3105651c33.ac 9.95300 51.85785 0.00 90
 OBJECT_BUILDING_MESH_DETAILED e000n50_e009n51_3105651c42.ac 9.98200 51.83988 0.00 90
 OBJECT_BUILDING_MESH_DETAILED e000n50_e009n51_3105651c43.ac 9.98200 51.85785 0.00 90
-OBJECT_SHARED Models/Power/windturbine_LAG18_39m.xml 9.89610 51.87047 227.84 0
+OBJECT_SHARED Models/Power/windturbine_LAG18_39m.xml 9.89913 51.85742 286.33 0
 OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 9.86706 51.87441 192.71 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.ac 9.75071 51.77184 201.05 0
 OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac 9.87980 51.81737 -352.14 450
 # END pylons_e000n50_e009n51_3105651
 # pylons_e000n50_e009n51_3105659
 # do not edit below this line
-# Last Written Sat Jun 12 12:33:37 2021
+# Last Written Thu Jul  1 14:18:01 2021
 #
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.94878 51.87468 153.09 246.627
 # END pylons_e000n50_e009n51_3105659
