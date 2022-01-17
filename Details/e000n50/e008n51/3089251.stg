@@ -1,8 +1,8 @@
 # details_e000n50_e008n51_3089251
 # do not edit below this line
-# Last Written Thu Jul  1 13:21:43 2021
+# Last Written Mon Jan 17 19:25:28 2022
 #
 OBJECT_STATIC e000n50_e008n51_3089251d32.ac 8.95189 51.58988 0.00 0
-OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 8.97355 51.60711 367.98 333.805
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 8.97355 51.60709 367.87 332.329
 OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 8.95386 51.59184 332.03 61.0786
 # END details_e000n50_e008n51_3089251

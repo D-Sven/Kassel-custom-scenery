@@ -1,13 +1,6 @@
-# pylons_e000n50_e008n51_3089264
-# do not edit below this line
-# Last Written Thu Jul  1 12:25:12 2021
-#
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.17423 51.87600 74.35 418.592
-OBJECT_SHARED Models/Power/generic_pylon_25m.ac 8.06148 51.87591 84.10 446.904
-# END pylons_e000n50_e008n51_3089264
 # pylons_e000n50_e008n51_3089272
 # do not edit below this line
-# Last Written Thu Jul  1 12:26:17 2021
+# Last Written Mon Jan 17 18:38:32 2022
 #
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.17423 51.87600 74.35 418.028
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac 8.10395 51.92336 62.17 304.662
@@ -21,5 +14,14 @@ OBJECT_BUILDING_MESH_DETAILED e000n50_e008n51_3089272c40.ac 8.23265 51.89297 0.0
 OBJECT_BUILDING_MESH_DETAILED e000n50_e008n51_3089272c41.ac 8.23265 51.92892 0.00 90
 OBJECT_BUILDING_MESH_DETAILED e000n50_e008n51_3089272c42.ac 8.23265 51.96487 0.00 90
 OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.ac 8.09227 51.93658 58.62 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.ac 8.08282 51.92947 60.35 0
 OBJECT_SHARED Models/Industrial/generic_tank_050m_grey.ac 8.09009 51.93479 -11.44 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac 8.21611 51.93600 64.34 0
 # END pylons_e000n50_e008n51_3089272
+# pylons_e000n50_e008n51_3089264
+# do not edit below this line
+# Last Written Mon Jan 17 18:41:28 2022
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.17423 51.87600 74.35 418.592
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac 8.06148 51.87591 84.10 446.904
+# END pylons_e000n50_e008n51_3089264

@@ -3,14 +3,19 @@ FlightGear custom scenery for the Kassel region, Germany
 
 ### This package contains:
 
-*  Kassel Calden Airport (EDVK)
-	* upgraded airport layout
+*  Kassel Airport (EDVK)
+	* included new airport
+	* custom main buildings
 	* secondary buildings
 	* ILS both runways
 	* FMS procedures
-	* TODO: Customized main buildings
 * Old Kassel Calden Airport
-	* new airport layout
+	* closed but still visible
+* Paderborn Lippstadt (EDLP)
+	* upgraded airport layout
+	* custom main buildings
+	* secondary buildings
+	* FMS procedures
 * Hoexter-Holzminden (EDVI)
 	* upgraded airport layout
 * Hameln- Bad Pyrmont (EDVW)
@@ -58,9 +63,6 @@ FlightGear custom scenery for the Kassel region, Germany
 * Oeventrop-Ruhrwiesen
 	* upgraded airport layout
 * Soest Bad Sassendorf (EDLZ)
-	* upgraded airport layout
-* Paderborn Lippstadt (EDLP)
-	* terrasync objects
 	* upgraded airport layout
 * Paderborn-Haxterberg (EDLR)
 	* upgraded airport layout

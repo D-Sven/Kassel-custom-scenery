@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="ga" name="Viesmann_1" lat="N51 2.076527" lon="E8 40.772006" heading="26"  radius="10"  airlineCodes="" />
+        <Parking index="1" type="ga" name="Viesmann_2" lat="N51 2.069365" lon="E8 40.794182" heading="26"  radius="10"  airlineCodes="" />
+        <Parking index="2" type="ga" name="Viesmann_3" lat="N51 2.045219" lon="E8 40.868278" heading="274"  radius="10"  airlineCodes="" />
+        <Parking index="3" type="ga" name="Viesmann_4" lat="N51 2.030741" lon="E8 40.904041" heading="357"  radius="10"  airlineCodes="" />
+        <Parking index="4" type="ga" name="Viesmann_5" lat="N51 2.031407" lon="E8 40.927222" heading="357"  radius="10"  airlineCodes="" />
+        <Parking index="5" type="ga" name="Hangar_1" lat="N51 2.096225" lon="E8 40.686143" heading="289"  radius="10"  airlineCodes="" />
+        <Parking index="6" type="ga" name="Hangar_2" lat="N51 2.091990" lon="E8 40.704766" heading="289"  radius="10"  airlineCodes="" />
+        <Parking index="7" type="ga" name="ACG_1" lat="N51 2.134751" lon="E8 40.572658" heading="292"  radius="10"  airlineCodes="" />
+        <Parking index="8" type="ga" name="ACG_2" lat="N51 2.130008" lon="E8 40.593832" heading="292"  radius="10"  airlineCodes="" />
+        <Parking index="9" type="ga" name="ACG_3" lat="N51 2.115721" lon="E8 40.622822" heading="288"  radius="10"  airlineCodes="" />
+ </parkingList>
+</groundnet>
+
+<!--
+
+Parkingpos
+
+Viesmann_5: 8.68212037 51.03385679 357
+Viesmann_4: 8.68173402 51.03384569 357
+Viesmann_3: 8.68113797 51.03408699 274
+Viesmann_2: 8.67990304 51.03448941 26
+Viesmann_1: 8.67953343 51.03460879 26
+
+Hangar_2:   8.67841277 51.03486650 289
+Hangar_1:   8.67810238 51.03493708 289
+ACG_2:      8.67656387 51.03550014 292
+ACG_1:      8.67621097 51.03557918 292
+ACG_3:      8.67704703 51.03526202 288
+
+
+-->

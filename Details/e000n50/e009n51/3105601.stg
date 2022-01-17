@@ -1,12 +1,12 @@
 # details_e000n50_e009n51_3105601
 # do not edit below this line
-# Last Written Thu Jul  1 13:49:08 2021
+# Last Written Mon Jan 17 19:49:52 2022
 #
 OBJECT_STATIC e000n50_e009n51_3105601d01.ac 9.27853 51.05393 0.00 0
 OBJECT_STATIC e000n50_e009n51_3105601d11.ac 9.33559 51.05393 0.00 0
 OBJECT_STATIC e000n50_e009n51_3105601d12.ac 9.33559 51.08989 0.00 0
 OBJECT_STATIC e000n50_e009n51_3105601d13.ac 9.33559 51.10787 0.00 0
-OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 9.30986 51.05626 166.64 266.236
-OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 9.31201 51.05671 167.04 287.139
-OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 9.31153 51.05653 167.04 271.608
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 9.31051 51.05640 166.95 299.456
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 9.31074 51.05654 166.95 13.482
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 9.31167 51.05670 167.04 14.0961
 # END details_e000n50_e009n51_3105601

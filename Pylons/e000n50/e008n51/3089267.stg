@@ -1,14 +1,14 @@
 # pylons_e000n50_e008n51_3089266
 # do not edit below this line
-# Last Written Thu Jul  1 13:12:34 2021
+# Last Written Mon Jan 17 19:22:08 2022
 #
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.75343 51.75325 111.09 390.693
 # END pylons_e000n50_e008n51_3089266
 # pylons_e000n50_e008n51_3089267
 # do not edit below this line
-# Last Written Thu Jul  1 13:31:22 2021
+# Last Written Mon Jan 17 19:35:02 2022
 #
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.95014 51.77673 321.23 210.299
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.75343 51.75325 111.09 390.732
 OBJECT_BUILDING_MESH_DETAILED e000n50_e008n51_3089267c00.ac 8.77900 51.76798 0.00 90
 OBJECT_BUILDING_MESH_DETAILED e000n50_e008n51_3089267c10.ac 8.83700 51.76798 0.00 90
 OBJECT_BUILDING_MESH_DETAILED e000n50_e008n51_3089267c11.ac 8.83700 51.80393 0.00 90
@@ -19,28 +19,28 @@ OBJECT_BUILDING_MESH_DETAILED e000n50_e008n51_3089267c32.ac 8.95300 51.83988 0.0
 OBJECT_BUILDING_MESH_DETAILED e000n50_e008n51_3089267c33.ac 8.95300 51.85785 0.00 90
 OBJECT_BUILDING_MESH_DETAILED e000n50_e008n51_3089267c43.ac 8.98200 51.85785 0.00 90
 OBJECT_SHARED Models/Power/windturbine_e82_78m.xml 8.85820 51.79808 186.56 0
-OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 8.91640 51.81763 383.67 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 8.93330 51.75291 330.86 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.ac 8.81795 51.79998 152.65 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_13M.ac 8.81830 51.80022 152.27 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac 8.97695 51.83249 233.51 0
-OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac 8.97667 51.76996 -101.01 450
-OBJECT_SHARED Models/Industrial/TPS_Drujba2_chimney.ac 8.79104 51.78038 46.36 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac 8.79104 51.78038 -332.00 450
+OBJECT_SHARED Models/Industrial/TPS_Drujba2_chimney.ac 8.78994 51.78050 46.01 450
 # END pylons_e000n50_e008n51_3089267
 # pylons_e000n50_e008n51_3089259
 # do not edit below this line
-# Last Written Thu Jul  1 13:34:11 2021
+# Last Written Mon Jan 17 19:35:04 2022
 #
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.83940 51.75193 177.93 437.121
 # END pylons_e000n50_e008n51_3089259
-# pylons_e000n50_e008n51_3089275
-# do not edit below this line
-# Last Written Thu Jul  1 13:42:00 2021
-#
-OBJECT_SHARED Models/Power/generic_pylon_25m.ac 8.96390 51.87484 217.67 191.824
-# END pylons_e000n50_e008n51_3089275
 # pylons_e000n50_e009n51_3105648
 # do not edit below this line
-# Last Written Thu Jul  1 13:47:07 2021
+# Last Written Mon Jan 17 19:46:15 2022
 #
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.99732 51.86208 225.50 144.719
 # END pylons_e000n50_e009n51_3105648
+# pylons_e000n50_e008n51_3089275
+# do not edit below this line
+# Last Written Mon Jan 17 19:48:42 2022
+#
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac 8.96390 51.87484 217.67 191.824
+# END pylons_e000n50_e008n51_3089275

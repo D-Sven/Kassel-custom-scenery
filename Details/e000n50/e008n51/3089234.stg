@@ -1,6 +1,6 @@
 # details_e000n50_e008n51_3089234
 # do not edit below this line
-# Last Written Thu Jul  1 12:45:35 2021
+# Last Written Mon Jan 17 18:48:33 2022
 #
 OBJECT_STATIC e000n50_e008n51_3089234d03.ac 8.52868 51.35786 0.00 0
 OBJECT_STATIC e000n50_e008n51_3089234d11.ac 8.58605 51.30393 0.00 0
@@ -12,6 +12,7 @@ OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 8.72409 51.36279 378
 OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 8.72463 51.36316 378.00 172.921
 OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 8.72475 51.36307 378.00 141.066
 OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 8.72014 51.36382 378.00 303.727
-OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 8.73025 51.36641 378.70 5.8188
-OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 8.73092 51.36635 378.70 2.37215
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 8.73240 51.36614 378.70 -58.5226
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 8.73025 51.36641 378.70 5.8188
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 8.73207 51.36632 378.70 359.648
 # END details_e000n50_e008n51_3089234

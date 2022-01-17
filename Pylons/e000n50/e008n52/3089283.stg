@@ -1,7 +1,6 @@
 # pylons_e000n50_e008n51_3089275
 # do not edit below this line
-# Last Written Thu Jul  1 13:42:00 2021
+# Last Written Mon Jan 17 19:48:42 2022
 #
-OBJECT_SHARED Models/Power/generic_pylon_25m.ac 8.91931 52.00095 -0.33 394.964
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.83606 52.00205 -0.40 427.011
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.91931 52.00095 164.02 394.964
 # END pylons_e000n50_e008n51_3089275

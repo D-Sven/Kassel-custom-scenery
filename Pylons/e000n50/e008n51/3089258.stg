@@ -1,18 +1,18 @@
 # pylons_e000n50_e008n51_3089250
 # do not edit below this line
-# Last Written Thu Jul  1 12:53:13 2021
+# Last Written Mon Jan 17 18:59:54 2022
 #
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.55637 51.62586 138.33 407.113
 # END pylons_e000n50_e008n51_3089250
 # pylons_e000n50_e008n51_3089266
 # do not edit below this line
-# Last Written Thu Jul  1 13:12:34 2021
+# Last Written Mon Jan 17 19:22:08 2022
 #
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.70246 51.74797 99.82 271.469
 # END pylons_e000n50_e008n51_3089266
 # pylons_e000n50_e008n51_3089258
 # do not edit below this line
-# Last Written Thu Jul  1 13:17:38 2021
+# Last Written Mon Jan 17 19:26:10 2022
 #
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac 8.74571 51.70045 165.09 190.734
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.55637 51.62586 138.33 112.845
@@ -32,20 +32,20 @@ OBJECT_BUILDING_MESH_DETAILED e000n50_e008n51_3089258c33.ac 8.70244 51.73285 0.0
 OBJECT_BUILDING_MESH_DETAILED e000n50_e008n51_3089258c41.ac 8.73136 51.67893 0.00 90
 OBJECT_BUILDING_MESH_DETAILED e000n50_e008n51_3089258c42.ac 8.73136 51.71488 0.00 90
 OBJECT_BUILDING_MESH_DETAILED e000n50_e008n51_3089258c43.ac 8.73136 51.73285 0.00 90
-OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 8.65497 51.70594 120.50 0
-OBJECT_SHARED Models/Power/windturbine_e82_78m.xml 8.64603 51.69244 118.90 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 8.66558 51.65552 163.24 0
+OBJECT_SHARED Models/Power/windturbine_e82_78m.xml 8.73389 51.68295 187.91 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_13M.ac 8.69586 51.66669 170.24 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.ac 8.67627 51.64704 177.90 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.ac 8.58654 51.74417 90.74 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac 8.73000 51.68216 181.90 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.ac 8.61887 51.64179 141.85 0
 OBJECT_SHARED Models/Industrial/generic_tank_050m_grey.ac 8.72858 51.73896 35.80 0
-OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac 8.73654 51.71966 -351.43 450
-OBJECT_SHARED Models/Industrial/TPS_Drujba2_chimney.ac 8.72515 51.71427 31.13 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac 8.67874 51.65593 -301.85 450
+OBJECT_SHARED Models/Industrial/TPS_Drujba2_chimney.ac 8.67874 51.65593 76.51 450
 # END pylons_e000n50_e008n51_3089258
 # pylons_e000n50_e008n51_3089259
 # do not edit below this line
-# Last Written Thu Jul  1 13:34:11 2021
+# Last Written Mon Jan 17 19:35:04 2022
 #
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.74571 51.70045 165.09 182.302
 # END pylons_e000n50_e008n51_3089259

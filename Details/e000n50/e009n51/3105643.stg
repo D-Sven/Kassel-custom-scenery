@@ -1,6 +1,6 @@
 # details_e000n50_e009n51_3105643
 # do not edit below this line
-# Last Written Thu Jul  1 14:15:30 2021
+# Last Written Mon Jan 17 20:12:45 2022
 #
 OBJECT_STATIC e000n50_e009n51_3105643d10.ac 9.83676 51.64298 0.00 0
 OBJECT_STATIC e000n50_e009n51_3105643d30.ac 9.95244 51.64298 0.00 0
@@ -14,5 +14,5 @@ OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 9.95769 51.72691 108.41 -
 OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 9.96063 51.72760 108.41 151.487
 OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 9.95984 51.72722 108.41 156.3
 OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 9.96141 51.72791 108.41 149.761
-OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 9.95904 51.72757 108.41 8.1382
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 9.95895 51.72755 108.41 10.6969
 # END details_e000n50_e009n51_3105643
