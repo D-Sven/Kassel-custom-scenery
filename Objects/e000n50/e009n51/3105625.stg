@@ -398,3 +398,26 @@ OBJECT_SHARED Models/Boundaries/Fence-10m-grayBW.xml 9.38509493 51.41663249 260.
 OBJECT_SHARED Models/Boundaries/Fence-2m-grayBW.xml 9.38518103 51.41662780 260.5340 176.1 0.0 --0.7
 OBJECT_SHARED Models/Boundaries/Fence-2m-grayBW.xml 9.38520977 51.41662658 260.5094 176.1 0.0 --0.7
 OBJECT_SHARED Models/Boundaries/Fence-2m-grayBW.xml 9.38523851 51.41662535 260.4847 176.1 0.0 --0.7
+# Red building beacons + twr equip
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 9.39711793 51.41706349 257.1864 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 9.39669915 51.41708554 257.6091 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 9.39708247 51.41679837 256.1588 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 9.39666123 51.41682146 256.6801 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 9.39654669 51.41709466 256.7553 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 9.39651002 51.41683231 256.7857 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 9.39483379 51.41718664 258.6597 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 9.39479741 51.41692172 258.6557 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 9.39416859 51.41711649 282.1506 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 9.39407431 51.41712076 282.1688 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 9.39406827 51.41706937 282.1763 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 9.39415905 51.41707032 282.1209 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 9.38667172 51.41673166 270.7220 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 9.38561679 51.41678696 271.7147 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 9.38659357 51.41616264 269.6094 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 9.38554194 51.41621840 270.5634 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 9.38303640 51.41899904 264.8360 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 9.38284310 51.41901039 264.9098 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 9.38303343 51.41820941 265.5929 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 9.38273300 51.41822734 265.6087 0.0 0.0 -0.0
+OBJECT_SHARED Models/Communications/vhf_antenna_multiband_base_station_sa.xml 9.39413946 51.41708967 282.0445 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/strobe10000.xml 9.39414473 51.41708913 287.9600 0.0 0.0 -0.0

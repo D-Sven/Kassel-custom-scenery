@@ -16,6 +16,11 @@ FlightGear custom scenery for the Kassel region, Germany
 	* custom main buildings
 	* secondary buildings
 	* FMS procedures
+* Allendorf Eder (EDFQ)
+	* upgraded airport layout
+	* custom main buildings
+	* secondary buildings
+	* FMS procedures
 * Hoexter-Holzminden (EDVI)
 	* upgraded airport layout
 * Hameln- Bad Pyrmont (EDVW)
@@ -113,4 +118,4 @@ FlightGear custom scenery for the Kassel region, Germany
 * d-laser (https://github.com/mherweg/d-laser-fgtools)
     
     
-Sven Seipp, June 2021
+Sven Seipp, Jan 2022

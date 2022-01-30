@@ -95,6 +95,7 @@ OBJECT_SHARED Models/Aircraft/atr42-airfrance.ac 8.60644743 51.60652997 218.0467
 OBJECT_SHARED Models/Aircraft/Cessna185.ac 8.60923361 51.60849949 216.7052 304.0 0.0 -0.0
 OBJECT_SHARED Models/Transport/VWPassat_S1.ac 8.60920691 51.60820373 217.0810 124.0 0.0 -0.0
 OBJECT_SHARED Models/Boundaries/Automatic_Green_Gate_20m.xml 8.61197433 51.60900090 217.8231 256.0 0.0 -0.0
+# Trees
 OBJECT_SHARED Models/Trees/line_trees.xml 8.61402182 51.60840867 219.0110 34.6 0.0 -0.0
 OBJECT_SHARED Models/Trees/line_trees.xml 8.61610611 51.60843148 220.1867 304.0 0.0 -0.0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.61079577 51.60928694 216.7062 0.0 0.0 -0.0
@@ -119,10 +120,6 @@ OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.62194869 51.61067345 220.378
 OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.62234992 51.61083858 220.3032 0.0 0.0 -0.0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.62303923 51.61108352 220.1528 0.0 0.0 -0.0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.61939551 51.60982488 220.4795 0.0 0.0 -0.0
-OBJECT_SHARED Models/Transport/bus.xml 8.62037828 51.61057437 220.1549 32.0 0.0 -0.0
-OBJECT_SHARED Models/Transport/bus_bi.xml 8.61991935 51.61038377 220.1861 32.0 0.0 -0.0
-OBJECT_SHARED Models/Transport/bus_bi_turn.xml 8.62146669 51.61043407 220.5024 20.0 0.0 -0.0
-OBJECT_SHARED Models/Airport/GA_EPSW.xml 8.62247281 51.61195782 219.2029 302.3 0.0 -0.0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.62336270 51.61278496 218.2450 0.0 0.0 -0.0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.62389067 51.61301952 217.9775 0.0 0.0 -0.0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.62442701 51.61324562 217.6966 0.0 0.0 -0.0
@@ -145,6 +142,11 @@ OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.62486632 51.61196617 219.349
 OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.62280512 51.61177785 219.4583 0.0 0.0 -0.0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.62238205 51.61157239 219.6221 0.0 0.0 -0.0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.62179459 51.61134178 219.7644 0.0 0.0 -0.0
+# 
+OBJECT_SHARED Models/Transport/bus.xml 8.62037828 51.61057437 220.1549 32.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/bus_bi.xml 8.61991935 51.61038377 220.1861 32.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/bus_bi_turn.xml 8.62146669 51.61043407 220.5024 20.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/GA_EPSW.xml 8.62247281 51.61195782 219.2029 302.3 0.0 -0.0
 OBJECT_SHARED Models/Trees/line_trees.xml 8.62658842 51.61404470 216.5048 303.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/hangar3.ac 8.62119736 51.61123780 219.7157 225.2 0.0 -0.0
 OBJECT_SHARED Models/Aircraft/TB20.xml 8.61436893 51.60896965 219.2437 168.0 -0.5 -0.0
@@ -158,6 +160,7 @@ OBJECT_SHARED Models/Misc/picnic_table.ac 8.62284504 51.61318409 222.0208 0.0 0.
 OBJECT_SHARED Models/Misc/picnic_table.ac 8.62286777 51.61310561 222.1911 0.0 0.0 -0.0
 OBJECT_SHARED Models/Misc/picnic_table.ac 8.62275169 51.61321187 221.8917 0.0 0.0 -0.0
 OBJECT_SHARED Models/Aircraft/dc3_lowpoly.ac 8.62259315 51.61277232 218.1185 0.0 0.0 -0.0
+# Fences
 OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 8.62256171 51.61342935 217.0720 34.0 0.0 -0.3
 OBJECT_SHARED Models/Boundaries/Fence-20m-grayBW.xml 8.62214494 51.61325090 217.2612 36.2 0.0 -0.3
 OBJECT_SHARED Models/Boundaries/Fence-10m-grayBW.xml 8.62198302 51.61316279 217.3667 51.4 0.0 -0.5
@@ -189,6 +192,15 @@ OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 8.60867146 51.60749774 217.
 OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 8.60916818 51.60744029 218.0474 215.1 0.0 --0.1
 OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 8.60975964 51.60769877 217.9699 215.1 0.0 --0.1
 OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 8.61035112 51.60795725 217.9811 215.1 0.0 -0.1
+OBJECT_SHARED Models/Boundaries/Automatic_Green_Gate_20m.xml 8.61418348 51.60934567 218.7996 304.9 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Fence-20m-grayBW.xml 8.61392735 51.60923177 218.7073 37.8 0.0 --0.0
+OBJECT_SHARED Models/Boundaries/Fence-20m-grayBW.xml 8.61369885 51.60912158 218.6907 37.8 0.0 --0.1
+OBJECT_SHARED Models/Boundaries/Fence-20m-grayBW.xml 8.61444845 51.60946031 218.7597 213.3 0.0 -0.1
+OBJECT_SHARED Models/Boundaries/Fence-20m-grayBW.xml 8.61468632 51.60956248 218.7867 216.0 0.0 -0.1
+OBJECT_SHARED Models/Boundaries/Fence-20m-grayBW.xml 8.61340145 51.60911398 218.9335 305.9 0.0 --3.0
+OBJECT_SHARED Models/Boundaries/Fence-20m-grayBW.xml 8.61318094 51.60921793 218.2972 339.7 0.0 --0.6
+# 
+OBJECT_SHARED Models/Boundaries/Automatic_Green_Gate_20m.xml 8.62298750 51.61358817 216.9167 304.0 0.0 -0.0
 OBJECT_SHARED Models/Communications/vhf_antenna_multiband_base_station_sa.xml 8.61864560 51.61024171 243.2636 0.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/Vehicle/catruckmed-lsg.ac 8.62185595 51.61179224 219.2770 222.4 0.0 -0.0
 OBJECT_SHARED Models/Airport/Vehicle/chariot.xml 8.62263761 51.61206261 219.0835 303.7 0.0 -0.0
@@ -197,14 +209,53 @@ OBJECT_SHARED Models/Airport/Vehicle/chariot3curve.ac 8.62265728 51.61214828 218
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 8.62191769 51.61284793 217.8485 212.7 0.0 -0.0
 OBJECT_SHARED Models/Airport/Vehicle/generic-GPU.xml 8.62259101 51.61226804 218.8187 304.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/Vehicle/passerelle.xml 8.62230616 51.61343214 216.9840 302.1 0.0 -0.0
-OBJECT_SHARED Models/Boundaries/Automatic_Green_Gate_20m.xml 8.61418348 51.60934567 218.7996 304.9 0.0 -0.0
-OBJECT_SHARED Models/Boundaries/Fence-20m-grayBW.xml 8.61392735 51.60923177 218.7073 37.8 0.0 --0.0
-OBJECT_SHARED Models/Boundaries/Fence-20m-grayBW.xml 8.61369885 51.60912158 218.6907 37.8 0.0 --0.1
-OBJECT_SHARED Models/Boundaries/Fence-20m-grayBW.xml 8.61444845 51.60946031 218.7597 213.3 0.0 -0.1
-OBJECT_SHARED Models/Boundaries/Fence-20m-grayBW.xml 8.61468632 51.60956248 218.7867 216.0 0.0 -0.1
-OBJECT_SHARED Models/Boundaries/Fence-20m-grayBW.xml 8.61340145 51.60911398 218.9335 305.9 0.0 --3.0
-OBJECT_SHARED Models/Boundaries/Fence-20m-grayBW.xml 8.61318094 51.60921793 218.2972 339.7 0.0 --0.6
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 8.61492499 51.60953360 218.8968 36.0 0.0 -0.0
+# Red building beacons 
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.62060875 51.61142550 230.1835 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.61894205 51.61073012 230.1030 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.61937348 51.61063131 236.3809 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.62018882 51.61097811 236.4135 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.62048462 51.61070266 237.1478 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.61966301 51.61036063 237.1144 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.61873369 51.61031608 236.8761 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.61845396 51.61019728 236.9016 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.61856329 51.61024472 243.3326 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.61862113 51.61027020 243.3440 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.61865916 51.61023713 243.3568 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.61859710 51.61021215 243.3678 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.61895030 51.61013097 236.9376 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.61865248 51.61000162 236.8788 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.61817893 51.61002871 227.7941 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.61705924 51.60956692 227.8397 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.61689386 51.60950606 226.9417 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.61566557 51.60901142 227.6762 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.61546430 51.60888903 227.4389 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.61496853 51.60935771 226.5469 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.61024373 51.60882358 222.3860 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.60964117 51.60857767 222.3221 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.60926685 51.60831257 223.0687 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.60897757 51.60819073 222.9757 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.60845488 51.60798249 222.9407 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.60752987 51.60777682 222.5771 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.60693665 51.60754605 222.6685 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.60692999 51.60647844 228.1308 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.60762416 51.60673593 228.1700 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.60830894 51.60662699 228.1788 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.62232135 51.61275987 225.4227 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.62268396 51.61290021 225.4541 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.62258483 51.61249776 225.4439 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.62278914 51.61328724 226.8323 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.62289105 51.61332974 226.7915 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.62342794 51.61355198 222.9911 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.62405556 51.61393910 223.0713 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.62465799 51.61417288 222.7950 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.62475412 51.61420986 220.2512 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.62538521 51.61445370 219.8336 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.62075783 51.61128977 230.1354 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.62096083 51.61093122 229.8296 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.61909375 51.61059207 230.0871 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.61883884 51.61040657 230.5463 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.61910171 51.61015624 230.4949 0.0 0.0 -0.0
 # Navigation equipment
 OBJECT_SHARED Models/Airport/EUROPOLES_LOCBRIDGE_30M.xml 8.59740259 51.60637544 212.3966 32.2 0.0 -0.0
 OBJECT_SHARED Models/Airport/EUROPOLES_LOCBRIDGE_30M.xml 8.63376278 51.62121020 206.4560 33.4 0.0 -0.0
@@ -212,7 +263,3 @@ OBJECT_SHARED Models/Airport/EUROPOLES_GLS.xml 8.60574652 51.61122896 209.6372 3
 OBJECT_SHARED Models/Airport/EUROPOLES_GLS.xml 8.62514163 51.61902503 206.6102 123.3 0.0 -0.0
 OBJECT_SHARED Models/Airport/PAPI2.ac 8.60640210 51.61055576 211.2489 34.1 -1.2 -0.0
 OBJECT_SHARED Models/Airport/PAPI2.ac 8.62625617 51.61757569 209.8776 213.9 1.2 -0.0
-# Boundaries
-OBJECT_SHARED Models/Boundaries/Automatic_Green_Gate_20m.xml 8.62298750 51.61358817 216.9167 304.0 0.0 -0.0
-
-

@@ -12,6 +12,13 @@
         <Parking index="7" type="ga" name="ACG_1" lat="N51 2.134751" lon="E8 40.572658" heading="292"  radius="10"  airlineCodes="" />
         <Parking index="8" type="ga" name="ACG_2" lat="N51 2.130008" lon="E8 40.593832" heading="292"  radius="10"  airlineCodes="" />
         <Parking index="9" type="ga" name="ACG_3" lat="N51 2.115721" lon="E8 40.622822" heading="288"  radius="10"  airlineCodes="" />
+        
+        <Parking index="10" type="ga" name="Glider_11_3" lat="N51 2.278517" lon="E8 40.375769" heading="113"  radius="10"  airlineCodes="" />
+        <Parking index="11" type="ga" name="Glider_11_2" lat="N51 2.275915" lon="E8 40.384667" heading="113"  radius="10"  airlineCodes="" />
+        <Parking index="12" type="ga" name="Glider_11_1" lat="N51 2.272586" lon="E8 40.395566" heading="113"  radius="10"  airlineCodes="" />
+        <Parking index="13" type="ga" name="Glider_29_3" lat="N51 2.005968" lon="E8 41.369398" heading="293"  radius="10"  airlineCodes="" />
+        <Parking index="14" type="ga" name="Glider_29_2" lat="N51 2.009116" lon="E8 41.357878" heading="293"  radius="10"  airlineCodes="" />
+        <Parking index="15" type="ga" name="Glider_29_1" lat="N51 2.012876" lon="E8 41.344542" heading="293"  radius="10"  airlineCodes="" />
  </parkingList>
 </groundnet>
 
@@ -30,6 +37,20 @@ Hangar_1:   8.67810238 51.03493708 289
 ACG_2:      8.67656387 51.03550014 292
 ACG_1:      8.67621097 51.03557918 292
 ACG_3:      8.67704703 51.03526202 288
+
+
+GLID_11: 
+
+GLID_11_3: 8.67292949 51.03797528 hdg 113
+GLID_11_2: 8.67307779 51.03793192 hdg 113
+GLID_11_1: 8.67325943 51.03787644 hdg 113
+
+GLID_29:
+
+GLID_29_3: 8.68948997 51.03343280 hdg 293
+GLID_29_2: 8.68929797 51.03348527 hdg 293
+GLID_29_1: 8.68907570 51.03354793 hdg 293
+
 
 
 -->
